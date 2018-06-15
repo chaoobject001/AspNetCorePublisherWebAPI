@@ -1,0 +1,11 @@
+C:\Users\charlesk\source\repos\AspNetCorePublisherWebAPI\AspNetCorePublisherWebAPI\bin\Debug\netcoreapp1.1\AspNetCorePublisherWebAPI.deps.json
+C:\Users\charlesk\source\repos\AspNetCorePublisherWebAPI\AspNetCorePublisherWebAPI\bin\Debug\netcoreapp1.1\AspNetCorePublisherWebAPI.runtimeconfig.json
+C:\Users\charlesk\source\repos\AspNetCorePublisherWebAPI\AspNetCorePublisherWebAPI\bin\Debug\netcoreapp1.1\AspNetCorePublisherWebAPI.runtimeconfig.dev.json
+C:\Users\charlesk\source\repos\AspNetCorePublisherWebAPI\AspNetCorePublisherWebAPI\bin\Debug\netcoreapp1.1\AspNetCorePublisherWebAPI.dll
+C:\Users\charlesk\source\repos\AspNetCorePublisherWebAPI\AspNetCorePublisherWebAPI\bin\Debug\netcoreapp1.1\AspNetCorePublisherWebAPI.pdb
+C:\Users\charlesk\source\repos\AspNetCorePublisherWebAPI\AspNetCorePublisherWebAPI\obj\Debug\netcoreapp1.1\AspNetCorePublisherWebAPI.csprojResolveAssemblyReference.cache
+C:\Users\charlesk\source\repos\AspNetCorePublisherWebAPI\AspNetCorePublisherWebAPI\obj\Debug\netcoreapp1.1\AspNetCorePublisherWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\charlesk\source\repos\AspNetCorePublisherWebAPI\AspNetCorePublisherWebAPI\obj\Debug\netcoreapp1.1\AspNetCorePublisherWebAPI.AssemblyInfoInputs.cache
+C:\Users\charlesk\source\repos\AspNetCorePublisherWebAPI\AspNetCorePublisherWebAPI\obj\Debug\netcoreapp1.1\AspNetCorePublisherWebAPI.AssemblyInfo.cs
+C:\Users\charlesk\source\repos\AspNetCorePublisherWebAPI\AspNetCorePublisherWebAPI\obj\Debug\netcoreapp1.1\AspNetCorePublisherWebAPI.dll
+C:\Users\charlesk\source\repos\AspNetCorePublisherWebAPI\AspNetCorePublisherWebAPI\obj\Debug\netcoreapp1.1\AspNetCorePublisherWebAPI.pdb
