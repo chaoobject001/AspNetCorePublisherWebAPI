@@ -18,13 +18,19 @@ namespace AspNetCorePublisherWebAPI
         public IConfiguration Configuration { get; set; }
 
         // Needs constructor to access configuration file
-        public Startup()
+        public Startup(IHostingEnvironment env)
         {
             // set base path for searching configuration file
             var builder = new ConfigurationBuilder()
                 .SetBasePath(Directory.GetCurrentDirectory())
                 .AddJsonFile("appsettings.json");
             Console.WriteLine(Directory.GetCurrentDirectory());
+
+            if (env.IsDevelopment())
+            {
+                builder.AddUserSecrets<Startup>();
+            }
+
             Configuration = builder.Build();
 
         }
