@@ -12,14 +12,14 @@ namespace AspNetCorePublisherWebAPI
         public static void Main(string[] args)
         {
             var host = new WebHostBuilder()
-                .UseKestrel()
-                .UseContentRoot(Directory.GetCurrentDirectory())
-                .UseIISIntegration()
-                .UseStartup<Startup>()
+                .UseKestrel() // cross-platform web server 
+                .UseContentRoot(Directory.GetCurrentDirectory()) // root of web app
+                .UseIISIntegration() // ISS Express as a reverse proxy server 
+                .UseStartup<Startup>() // startup type by web host - default: Startup 
                 .UseApplicationInsights()
-                .Build();
+                .Build(); // builds WebHostBuilder to host
 
-            host.Run();
+            host.Run(); // starts app and blocks the calling thread until shut down  
         }
     }
 }
